@@ -1,0 +1,26 @@
+#error {
+    color: red;
+    font-size: 1.5em;
+}
+
+#loading {
+    font-size: 1.2em;
+    color: blue;
+}
+
+#product {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#product h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+#product p {
+    margin: 5px 0;
+}
+
